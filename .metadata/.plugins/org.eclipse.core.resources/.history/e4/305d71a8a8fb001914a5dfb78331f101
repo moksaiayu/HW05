@@ -1,0 +1,19 @@
+
+public class p7 {
+	public static void main(String[] args)
+	{
+		CarB car1;
+		car1 = new CarB();
+		
+		car1.num = 1234;
+		
+	}
+}
+
+class CarB
+{
+	int num;
+	double gas;
+	
+}
+
